@@ -1,4 +1,8 @@
 {
+  "notlar": {
+    "DAEMON-XBGE83PM": "TEST",
+    "DAEMON-B09PXV8M": "Bextiyar"
+  },
   "active_users": [
     "DAEMON-NEGOFVUK",
     "DAEMON-XBGE83PM",
